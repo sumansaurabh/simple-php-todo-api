@@ -7,20 +7,20 @@ header('Access-Control-Allow-Methods: GET, POST, OPTIONS');
 // Create a response array
 $response = [
     [
-        "_id" => 1,
-        "todo" => "Todo 1"
+        "_id" => 0001,
+        "todo" => "Buy groceries for the week"
     ],
     [
-        "_id" => 2,
-        "todo" => "Todo 2"
+        "_id" => 0002,
+        "todo" => "Complete the presentation slides"
     ],
     [
-        "_id" => 3,
-        "todo" => "Todo 3"
+        "_id" => 0003,
+        "todo" => "Call the utility company to resolve billing issue"
     ],
     [
-        "_id" => 4,
-        "todo" => "Todo 4"
+        "_id" => 0004,
+        "todo" => "Schedule a dentist appointment"
     ]
 ];
 
